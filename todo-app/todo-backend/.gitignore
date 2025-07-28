@@ -61,4 +61,4 @@ typings/
 .next
 
 # redis data
-/redis_data/
+redis_data/
